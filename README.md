@@ -104,10 +104,15 @@ The solution is designed for **banking & finance analytics**, focusing on histor
 ## 📁 Project Structure
 
 ├── TSLA.csv
+
 ├── TSLA_test_upload.xlsx
+
 ├── lstm_model.h5
+
 ├── streamlit_app.py
+
 ├── requirements.txt
+
 ├── README.md
 
 
@@ -129,7 +134,7 @@ streamlit run app.py
 
 ### 3. Upload Dataset
 
-* Use TSLA_test_upload.xlsx or TSLA.csv
+* Use TSLA_test_upload.xlsx
 * Ensure Adj Close column exists
 
 ## 📦 Requirements
