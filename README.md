@@ -9,6 +9,14 @@ This project demonstrates **time-series forecasting of Tesla (TSLA) stock prices
 
 The solution is designed for **banking & finance analytics**, focusing on historical price modeling and comparative performance evaluation.
 
+## 🚀 Live Demo (Streamlit App)
+
+🔗 **Streamlit Demo:**  
+👉 https://stock-prediction-tesla.streamlit.app/
+
+> *Note:* The app allows users to upload CSV or Excel files and predict Tesla stock prices using a trained LSTM model.
+
+
 ---
 
 ## 🚀 Project Overview
